@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "sass": "^1.77.8",
+    "sass-loader": "^16.0.0"
+  },
+  "dependencies": {
+    "aos": "^2.3.4"
+  }
+}
